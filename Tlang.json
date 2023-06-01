@@ -36,7 +36,6 @@
             "Tags":"Tags",
             "Permissions":"Permissions"
         },
-  
         "LoginScreen": {
           "Welcome": "Welcome",
           "EnterYourCrendentialsHere": "Enter your crendentials here",
@@ -117,10 +116,20 @@
           "Department":"Department",
           "WorkShift":"Work shift",
           "Start":"Start",
-          "End":"End"
+          "End":"End",
+          "Create":"Create",
+          "AllowedZones":"Allowed zones",
+          "LoadMore":"Load more",
+          "Restrticted":"Restricted",
+          "EnterName":"Enter name",
+          "EnterEmail":"Enter email",
+          "EnterPhoneNumber":"Enter phone number",
+          "EnterAddress":"Enter address",
+          "EnterReferenceNumber":"Enter reference number"
         }
       }
-    ],
+    ], 
+    
 
     "hi": [
       {
@@ -240,7 +249,17 @@
           "RoleGroup":"रोल ग्रुप",
           "Department":"डिपार्टमेंट",
           "WorkShift":"वर्क शिफ़ट",
-          "Start":"स्टार्ट"
+          "Start":"स्टार्ट",
+          "End":"एन्ड",
+          "Create":"क्रिएट",
+          "AllowedZones":"अनुमत क्षेत्र",
+          "LoadMore":"लोड मोर ",
+          "Restricted":"वर्जित",
+          "EnterName":"एंटर नाम",
+          "EnterEmail":"एंटर ईमेल",
+          "EnterPhoneNumber":"एंटर फ़ोन नंबर",
+          "EnterAddress":"एंटर एड्रेस",
+          "EnterReferenceNumber":"एंटर रिफरेन्स नंबर"
         }
       }
     ],
@@ -366,7 +385,16 @@
           "Department":"Departamento",
           "WorkShift":"Turno de trabajo",
           "Start":"Comenzar",
-          "End":"Fin"
+          "End":"Fin",
+          "Create":"Crear",
+          "AllowedZones":"Zonas permitidas",
+          "LoadMore":"Carga más",
+          "Restricted":"Restringido",
+          "EnterName":"Ingrese su nombre",
+          "EnterEmail":"Ingrese correo electrónico",
+          "EnterPhoneNumber":"Ingresa número telefónico",
+          "EnterAddress":"Ingresa la direccion",
+          "EnterReferenceNumber":"Ingrese el número de referencia"
         }
   
       }
