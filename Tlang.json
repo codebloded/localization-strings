@@ -12,7 +12,8 @@
           "SOS":"SOS",
           "NotAvailable":"NotAvailable",
           "Status":"Status",
-          "Cancel":"Cancel"
+          "Cancel":"Cancel",
+          "CreateUser":"Create user"
         },
         "Sidebar": {
             "Standard":"Standard",
@@ -24,7 +25,6 @@
             "More":"More",
             "Language":"Language",
             "Back":"Back",
-            "CreateUser":"Create user",
             "UserTypes":"user types",
             "UserGroups":"User groups",
             "AlertTargetGroups":"Alert target groups",
@@ -37,19 +37,15 @@
             "Permissions":"Permissions"
         },
         "Error": {
-                "Couldn'tFindTheLocation":
-                "NetworkRequestFailed":
-                "Error":
-                "Couldn'tFindPastLocations":
-                "UserHasNoCurrentRole":
+                "Couldn'tFindTheLocation":"Couldn't Find The Location",
+                "NetworkRequestFailed":"Network Request Failed",
+                "Error":"Error",
+                "Couldn'tFindPastLocations":"Couldn't find past locations",
+                "UserHasNoCurrentRole":"User has no current role",
                 "Couldn'tFindAnyUser":
                 "Couldn'tFindTheUser":
-    
-        }
-    
-
-
-
+                "Couldn'tFindLogs":
+        },
         "LoginScreen": {
           "Welcome": "Welcome",
           "EnterYourCrendentialsHere": "Enter your crendentials here",
@@ -138,7 +134,8 @@
           "EnterEmail":"Enter email",
           "EnterPhoneNumber":"Enter phone number",
           "EnterAddress":"Enter address",
-          "EnterReferenceNumber":"Enter reference number"
+          "EnterReferenceNumber":"Enter reference number",
+          "UpdateUser":"Update user"
         }
       }
     ], 
@@ -157,7 +154,8 @@
           "SOS":"एसओएस",
           "NotAvailable":"उपलब्ध नहीं है",
           "Status":"स्टेटस",
-          "Cancel":"कैंसिल"
+          "Cancel":"कैंसिल",
+          "CreateUser":"यूजर बनाइये"
         },
         "Sidebar": {
             "Standard":"स्टैण्डर्ड",
@@ -169,7 +167,6 @@
             "More":"अधिक",
             "Language":"भाषा",
             "Back":"पीछे",
-            "CreateUser":"यूजर बनाइये",
             "UserTypes":"यूजर प्रकार",
             "UserGroups":"यूजर ग्रुप्स ",
             "AlertTargetGroups":"अलर्ट टारगेट ग्रुप्स",
@@ -271,7 +268,8 @@
           "EnterEmail":"ईमेल डालिये",
           "EnterPhoneNumber":"फ़ोन नंबर डालिये",
           "EnterAddress":"एड्रेस डालिये ",
-          "EnterReferenceNumber":"रिफरेन्स नंबर डालिये"
+          "EnterReferenceNumber":"रिफरेन्स नंबर डालिये",
+          "UpdateUser":"अपडेट यूजर"
         }
       }
     ],
@@ -290,7 +288,8 @@
           "SOS":"Llamada de socorro",
           "NotAvailable":"NoDisponible",
           "Status":"Estado",
-          "Cancel":"Cancelar"
+          "Cancel":"Cancelar",
+          "CreateUser":"Crear usuario"
         },
         "Sidebar": {
             "Standard":"Estándar",
@@ -302,7 +301,6 @@
             "More":"Más",
             "Language":"Idioma",
             "Back":"Atrás",
-            "CreateUser":"Crear usuario",
             "UserTypes":"Tipos de usuarios",
             "UserGroups":"Grupos de Usuarios",
             "AlertTargetGroups":"Alertar a los grupos objetivo",
@@ -405,7 +403,8 @@
           "EnterEmail":"Ingrese correo electrónico",
           "EnterPhoneNumber":"Ingresa número telefónico",
           "EnterAddress":"Ingresa la direccion",
-          "EnterReferenceNumber":"Ingrese el número de referencia"
+          "EnterReferenceNumber":"Ingrese el número de referencia",
+          "UpdateUser":"Actualizar usuario"
         }
   
       }
