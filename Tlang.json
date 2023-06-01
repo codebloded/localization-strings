@@ -37,17 +37,19 @@
             "Permissions":"Permissions"
         },
         "Error": {
-            "Couldn'tFindTheLocation":
-            "NetworkRequestFailed":
-            "Error":
-            "Couldn'tFindPastLocations":
-            "UserHasNoCurrentRole":
-            "Couldn'tFindAnyUser":
-            "Couldn'tFindTheUser":
+                "Couldn'tFindTheLocation":
+                "NetworkRequestFailed":
+                "Error":
+                "Couldn'tFindPastLocations":
+                "UserHasNoCurrentRole":
+                "Couldn'tFindAnyUser":
+                "Couldn'tFindTheUser":
+    
+        }
+    
 
 
 
-        },
         "LoginScreen": {
           "Welcome": "Welcome",
           "EnterYourCrendentialsHere": "Enter your crendentials here",
