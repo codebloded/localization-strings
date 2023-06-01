@@ -1,0 +1,126 @@
+{
+    "en": [
+      {
+        "common": {
+          "hindi": "Hindi",
+          "english": "English",
+          "spanish": "Spanish",
+          "Active": "Active",
+          "Inactive": "Inactive"
+        },
+  
+        "LoginScreen": {
+          "Welcome": "Welcome",
+          "EnterYourCrendentialsHere": "Enter your crendentials here",
+          "Username": "Username",
+          "EnterYourUsername": "Enter your username",
+          "Password": "Password",
+          "EnterYourPassword": "Enter your password",
+          "Login": "Login"
+        },
+        "Dashboard": {
+          "Dashboard": "Dashboard",
+          "Standard": "Standard",
+          "Users": "Users",
+          "TodaysTotalUsers": "Today's Total Users",
+          "CurrentlyActiveUsers": "Currently Active Users",
+          "Readers": "Readers",
+          "Stats": "Stats",
+          "Patrolling": "Patrolling",
+          "Alerts": "Alerts",
+          "Attendance": "Attendance",
+          "Live": "Live",
+          "indoor": "indoor",
+          "outdoor": "outdoor",
+          "AllZones": "All Zones"
+        }
+      }
+    ],
+    "hi": [
+      {
+        "common": {
+          "hindi": "हिंदी",
+          "english": "अंग्रेज़ी",
+          "spanish": "स्पेनिश",
+          "Active": "एक्टिव",
+          "Inactive": "इनएक्टिव"
+        },
+        "LoginScreen": {
+          "Welcome": "स्वागत हे",
+          "hindi": "हिंदी",
+          "english": "अंग्रेज़ी",
+          "EnterYourCrendentialsHere": "अपने क्रेडेंशियल्स यहां दर्ज करें",
+          "Username": "यूजरनाम",
+          "EnterYourUsername": "अपना यूजरनाम दर्ज करें",
+          "Password": "पासवर्ड",
+          "EnterYourPassword": "अपना पासवर्ड दर्ज करें",
+          "Login": "लॉग इन करें"
+        },
+        "Dashboard": {
+          "Dashboard": "डैशबोर्ड",
+          "Standard": "स्टैण्डर्ड ",
+          "Users": "उसेर्स",
+          "TodaysTotalUsers": "आज के कुल यूजर्स",
+          "CurrentlyActiveUsers": "वर्तमान में एक्टिव यूजर्स",
+          "Readers": "रीडर्स",
+          "Stats": "स्टेट",
+          "Patrolling": "पेट्रोलिंग",
+          "Alerts": "अलर्ट्स",
+          "Attendance": "अटेंडन्स",
+          "Live": "लाइव",
+          "indoor": "इंडोर",
+          "outdoor": "आउटडोर",
+          "AllZones": "सभी जोन्स"
+        }
+      }
+    ],
+    "es": [
+      {
+        "common": {
+          "hindi": "Hindi",
+          "english": "Inglés",
+          "spanish": "Español",
+          "Active": "Activo",
+          "Inactive": "Inactivo"
+        },
+  
+        "LoginScreen": {
+          "Welcome": "Bienvenido de nuevo",
+          "hindi": "Hindi",
+          "home": "Casa",
+          "EnterYourCrendentialsHere": "Ingrese sus credenciales aquí",
+          "Username": "Nombre de usuario",
+          "EnterYourUsername": "Ingrese su nombre de usuario",
+          "Password": "Contraseña",
+          "EnterYourPassword": "Ingrese su contraseña",
+          "Login": "Acceso"
+        },
+        "Dashboard": {
+          "Dashboard": "Tablero",
+          "Standard": "Estándar",
+          "Users": "Usuarios",
+          "TodaysTotalUsers": "Total de usuarios de hoy",
+          "CurrentlyActiveUsers": "Usuarios activos actualmente",
+          "Readers": "Lectores",
+          "Stats": "Estadísticas",
+          "Patrolling": "Patrullaje",
+          "Alerts": "Alertas",
+          "Attendance": "Asistencia",
+          "Live": "Vivir",
+          "indoor": "adentro",
+          "outdoor": "exterior",
+          "AllZones": "Todas las zonas"
+        },
+        "UserScreen":{
+          "Showing":"jskkkfnd"
+          
+  
+        }
+  
+      }
+    ]
+  }
+  
+  
+  
+  
