@@ -36,6 +36,18 @@
             "Tags":"Tags",
             "Permissions":"Permissions"
         },
+        "Error": {
+            "Couldn'tFindTheLocation":
+            "NetworkRequestFailed":
+            "Error":
+            "Couldn'tFindPastLocations":
+            "UserHasNoCurrentRole":
+            "Couldn'tFindAnyUser":
+            "Couldn'tFindTheUser":
+
+
+
+        },
         "LoginScreen": {
           "Welcome": "Welcome",
           "EnterYourCrendentialsHere": "Enter your crendentials here",
@@ -62,8 +74,7 @@
           "AllZones": "All Zones"
         },
         "User":{
-          "Showing": "Showing", 
-          "Type":"Type",
+          "Showing": "Showing",
           "Admin":"Admin",
           "StationaryGuard":"Stationary Guard",
           "PatrollingGuard":"Patrolling Guard",
@@ -197,7 +208,6 @@
         },
         "User":{
           "Showing": "दिखा रहा है", 
-          "Type":"टाइप",
           "Admin":"एडमिन",
           "StationaryGuard":"स्टेशनरी गार्ड",
           "PatrollingGuard":"पेट्रोलिंग गार्ड ",
@@ -255,11 +265,11 @@
           "AllowedZones":"अनुमत क्षेत्र",
           "LoadMore":"लोड मोर ",
           "Restricted":"वर्जित",
-          "EnterName":"एंटर नाम",
-          "EnterEmail":"एंटर ईमेल",
-          "EnterPhoneNumber":"एंटर फ़ोन नंबर",
-          "EnterAddress":"एंटर एड्रेस",
-          "EnterReferenceNumber":"एंटर रिफरेन्स नंबर"
+          "EnterName":"नाम डालिये",
+          "EnterEmail":"ईमेल डालिये",
+          "EnterPhoneNumber":"फ़ोन नंबर डालिये",
+          "EnterAddress":"एड्रेस डालिये ",
+          "EnterReferenceNumber":"रिफरेन्स नंबर डालिये"
         }
       }
     ],
@@ -332,7 +342,6 @@
         },
         "User":{
           "Showing": "Demostración", 
-          "Type":"Tipo",
           "Admin":"Administración",
           "StationaryGuard":"Guardia estacionario",
           "PatrollingGuard":"Guardia de patrulla",
