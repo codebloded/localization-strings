@@ -13,13 +13,14 @@
           "NotAvailable":"NotAvailable",
           "Status":"Status",
           "Cancel":"Cancel",
-          "CreateUser":"Create user"
+          "CreateUser":"Create user",
+          "Users":"Users",
+          "User":"User"
         },
         "Sidebar": {
             "Standard":"Standard",
             "Confidentiality":"Confidentiality",
             "Dashboard":"Dashboard",
-            "Users":"Users",
             "Zones":"Zones",
             "Alerts":"Alerts",
             "More":"More",
@@ -37,14 +38,14 @@
             "Permissions":"Permissions"
         },
         "Error": {
-                "Couldn'tFindTheLocation":"Couldn't Find The Location",
-                "NetworkRequestFailed":"Network Request Failed",
-                "Error":"Error",
-                "Couldn'tFindPastLocations":"Couldn't find past locations",
-                "UserHasNoCurrentRole":"User has no current role",
-                "Couldn'tFindAnyUser":
-                "Couldn'tFindTheUser":
-                "Couldn'tFindLogs":
+            "Couldn'tFindTheLocation":"Couldn't Find The Location",
+            "NetworkRequestFailed":"Network Request Failed",
+            "Error":"Error",
+            "Couldn'tFindPastLocations":"Couldn't find past locations",
+            "UserHasNoCurrentRole":"User has no current role",
+            "Couldn'tFindAnyUser":"Couldn't find any user",
+            "Couldn'tFindTheUser":"Couldn't find the user",
+            "Couldn'tFindLogs":"Couldn't find logs"
         },
         "LoginScreen": {
           "Welcome": "Welcome",
@@ -58,7 +59,6 @@
         "Dashboard": {
           "Dashboard": "Dashboard",
           "Standard": "Standard",
-          "Users": "Users",
           "TodaysTotalUsers": "Today's Total Users",
           "CurrentlyActiveUsers": "Currently Active Users",
           "Readers": "Readers",
@@ -69,7 +69,23 @@
           "Live": "Live",
           "indoor": "indoor",
           "outdoor": "outdoor",
-          "AllZones": "All Zones"
+          "AllZones": "All Zones",
+          "Completed":"Completed",
+          "Expected":"Expected",
+          "Assigned":"Assigned",
+          "Closed":"Closed",
+          "Open":"Open",
+          "Crowd":"Crowd",
+          "IdleZone":"Idle zone",
+          "InactiveReader":"Inactive reader",
+          "IncorrectRoute":"Incorrect route",
+          "IncorrectRouteTime":"Incorrect route time",
+          "RestrictedEntry":"Restricted entry",
+          "TagBatteryLow":"Tag battery low",
+          "UnattendedSource":"Unattended source",
+          "UserRoleExpiry":"User role expiry",
+          "InTime":"In time",
+          "Present":"Present"
         },
         "User":{
           "Showing": "Showing",
@@ -155,13 +171,14 @@
           "NotAvailable":"उपलब्ध नहीं है",
           "Status":"स्टेटस",
           "Cancel":"कैंसिल",
-          "CreateUser":"यूजर बनाइये"
+          "CreateUser":"यूजर बनाइये",
+          "Users":"यूजर्स",
+          "User":"यूजर"
         },
         "Sidebar": {
             "Standard":"स्टैण्डर्ड",
             "Confidentiality":"कॉन्फिडेंटिअलिटी",
             "Dashboard":"डैशबोर्ड",
-            "Users":"यूजर",
             "Zones":"क्षेत्र",
             "Alerts":"अलर्ट",
             "More":"अधिक",
@@ -178,6 +195,16 @@
             "Tags":"टैग्स",
             "Permissions":"पेर्मिशन्स" 
         },
+        "Error": {
+            "Couldn'tFindTheLocation":"",
+            "NetworkRequestFailed":"",
+            "Error":"",
+            "Couldn'tFindPastLocations":"",
+            "UserHasNoCurrentRole":"",
+            "Couldn'tFindAnyUser":"",
+            "Couldn'tFindTheUser":"",
+            "Couldn'tFindLogs":""
+        },
         "LoginScreen": {
           "Welcome": "स्वागत हे",
           "hindi": "हिंदी",
@@ -192,7 +219,6 @@
         "Dashboard": {
           "Dashboard": "डैशबोर्ड",
           "Standard": "स्टैण्डर्ड ",
-          "Users": "उसेर्स",
           "TodaysTotalUsers": "आज के कुल यूजर्स",
           "CurrentlyActiveUsers": "वर्तमान में एक्टिव यूजर्स",
           "Readers": "रीडर्स",
@@ -203,7 +229,23 @@
           "Live": "लाइव",
           "indoor": "इंडोर",
           "outdoor": "आउटडोर",
-          "AllZones": "सभी जोन्स"
+          "AllZones": "सभी जोन्स",
+          "Completed":"खतम",
+          "Expected":"एक्सपेक्टेड",
+          "Assigned":"सौंपा गया",
+          "Closed":"बंद",
+          "Open":"खुला",
+          "Crowd":"भीड़",
+          "IdleZone":"आइडल ज़ोन",
+          "InactiveReader":"इनएक्टिव रीडर",
+          "IncorrectRoute":"गलत रास्ता",
+          "IncorrectRouteTime":"गलत रास्ता समय",
+          "RestrictedEntry":"वर्जित एंट्री",
+          "TagBatteryLow":"टैग बैटरी कम",
+          "UnattendedSource":"अनटेण्डेड सोर्स ",
+          "UserRoleExpiry":"यूजर रोल एक्सपायरी",
+          "InTime":"पहुंचने का समय",
+          "Present":"वर्तमान"
         },
         "User":{
           "Showing": "दिखा रहा है", 
@@ -289,7 +331,9 @@
           "NotAvailable":"NoDisponible",
           "Status":"Estado",
           "Cancel":"Cancelar",
-          "CreateUser":"Crear usuario"
+          "CreateUser":"Crear usuario",
+          "Users":"Usuarios",
+          "User":"Usuario"
         },
         "Sidebar": {
             "Standard":"Estándar",
@@ -312,7 +356,16 @@
             "Tags":"Etiquetas",
             "Permissions":"Permisos"
         },
-  
+        "Error": {
+            "Couldn'tFindTheLocation":"No se pudo encontrar la ubicación",
+            "NetworkRequestFailed":"Solicitud de red fallida",
+            "Error":"Error",
+            "Couldn'tFindPastLocations":"No se pudieron encontrar ubicaciones anteriores",
+            "UserHasNoCurrentRole":"El usuario no tiene un rol actual",
+            "Couldn'tFindAnyUser":"No se pudo encontrar ningún usuario",
+            "Couldn'tFindTheUser":"No se pudo encontrar al usuario",
+            "Couldn'tFindLogs":"No se pudieron encontrar los registros"
+        },
         "LoginScreen": {
           "Welcome": "Bienvenido de nuevo",
           "hindi": "Hindi",
@@ -327,7 +380,6 @@
         "Dashboard": {
           "Dashboard": "Tablero",
           "Standard": "Estándar",
-          "Users": "Usuarios",
           "TodaysTotalUsers": "Total de usuarios de hoy",
           "CurrentlyActiveUsers": "Usuarios activos actualmente",
           "Readers": "Lectores",
@@ -338,7 +390,23 @@
           "Live": "Vivir",
           "indoor": "adentro",
           "outdoor": "exterior",
-          "AllZones": "Todas las zonas"
+          "AllZones": "Todas las zonas",
+          "Completed":"Terminado",
+          "Expected":"Esperado",
+          "Assigned":"Asignado",
+          "Closed":"Cerrado",
+          "Open":"Abierto",
+          "Crowd":"Multitud",
+          "IdleZone":"Zona inactiva",
+          "InactiveReader":"Lector inactivo",
+          "IncorrectRoute":"Ruta incorrecta",
+          "IncorrectRouteTime":"Tiempo de ruta incorrecto",
+          "RestrictedEntry":"Entrada restringida",
+          "TagBatteryLow":"Etiqueta de batería baja",
+          "UnattendedSource":"Fuente desatendida",
+          "UserRoleExpiry":"Caducidad del rol de usuario",
+          "InTime":"A tiempo",
+          "Present":"Presente"
         },
         "User":{
           "Showing": "Demostración", 
