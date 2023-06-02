@@ -15,7 +15,9 @@
           "Cancel":"Cancel",
           "CreateUser":"Create user",
           "Users":"Users",
-          "User":"User"
+          "User":"User",
+          "Types":"Types",
+          "Idle":"Idle"
         },
         "Sidebar": {
             "Standard":"Standard",
@@ -85,7 +87,8 @@
           "UnattendedSource":"Unattended source",
           "UserRoleExpiry":"User role expiry",
           "InTime":"In time",
-          "Present":"Present"
+          "Present":"Present",
+
         },
         "User":{
           "Showing": "Showing",
@@ -152,6 +155,28 @@
           "EnterAddress":"Enter address",
           "EnterReferenceNumber":"Enter reference number",
           "UpdateUser":"Update user"
+        },
+        "Zones":{
+          "Details":"Details",
+          "CrowdLimit":"Crowd limit",
+          "CurrentUsers":"Current users",
+          "LastHeartbeat":"Last heartbeat",
+          "LastConnection":"Last connection",
+          "Duration":"Duration"
+        },
+        "Alerts":{
+          "Created":"Created",
+          "AlertFlow":"Alert flow",
+          "AlertFlows":"Alert flows",
+          "Source":"Source",
+          "Message":"Message",
+          "AlertedUsersLevel":"Alerted users level",
+          "EmailAlertedUserLevel":"Email alerted user level",
+          "Alert":"Alert",
+          "EnterMessage":"Enter message",
+          "Acknowledge":"Acknowledge",
+          "Levels":"Levels",
+          "Level":"Level",
         }
       }
     ], 
@@ -173,7 +198,9 @@
           "Cancel":"कैंसिल",
           "CreateUser":"यूजर बनाइये",
           "Users":"यूजर्स",
-          "User":"यूजर"
+          "User":"यूजर",
+          "Types":"टाइप्स",
+          "Idle":"आइडल"
         },
         "Sidebar": {
             "Standard":"स्टैण्डर्ड",
@@ -312,6 +339,28 @@
           "EnterAddress":"एड्रेस डालिये ",
           "EnterReferenceNumber":"रिफरेन्स नंबर डालिये",
           "UpdateUser":"अपडेट यूजर"
+        },
+        "Zones":{
+          "Details":"डिटेल्स",
+          "CrowdLimit":"भीड़ की सीमा",
+          "CurrentUsers":"मौजूदा यूजर",
+          "LastHeartbeat":"अंतिम दिल की धड़कन",
+          "LastConnection":"अंतिम कनेक्शन",
+          "Duration":"लंबाई"
+        },
+        "Alerts":{
+          "Created":"बनाया था",
+          "AlertFlow":"अलर्ट फ्लो ",
+          "AlertFlows":"",
+          "Source":"",
+          "Message":"",
+          "AlertedUsersLevel":"",
+          "EmailAlertedUserLevel":"",
+          "Alert":"",
+          "EnterMessage":"",
+          "Acknowledge":"",
+          "Levels":"",
+          "Level":"",
         }
       }
     ],
@@ -333,7 +382,9 @@
           "Cancel":"Cancelar",
           "CreateUser":"Crear usuario",
           "Users":"Usuarios",
-          "User":"Usuario"
+          "User":"Usuario",
+          "Types":"Tipos",
+          "Idle":"Ocioso"
         },
         "Sidebar": {
             "Standard":"Estándar",
@@ -473,8 +524,29 @@
           "EnterAddress":"Ingresa la direccion",
           "EnterReferenceNumber":"Ingrese el número de referencia",
           "UpdateUser":"Actualizar usuario"
+        },
+        "Zones":{
+          "Details":"Detalles",
+          "CrowdLimit":"Límite de multitud",
+          "CurrentUsers":"Usuarios actuales",
+          "LastHeartbeat":"Último latido",
+          "LastConnection":"Última conexión",
+          "Duration":"Duración"
+        },
+        "Alerts":{
+          "Created":"Creado",
+          "AlertFlow":"Flujo de alerta",
+          "AlertFlows":"Flujos de alerta",
+          "Source":"Fuente",
+          "Message":"Mensaje",
+          "AlertedUsersLevel":"Nivel de usuarios alertados",
+          "EmailAlertedUserLevel":"Nivel de usuario alertado por correo electrónico",
+          "Alert":"Alerta",
+          "EnterMessage":"Introducir mensaje",
+          "Acknowledge":"Reconocer",
+          "Levels":"Niveles",
+          "Level":"Nivel"
         }
-  
       }
     ]
   }
